@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448139515278",
+    "firebase_url": "https://blog-bb3fe.firebaseio.com",
+    "project_id": "blog-bb3fe",
+    "storage_bucket": "blog-bb3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448139515278:android:c536510ee89737a1ca00df",
+        "android_client_info": {
+          "package_name": "tk.siddhmistry.blogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448139515278-d3n82e401m21593um3sml1qj346fshmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Your_API_Key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "Your_Client_Key",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
