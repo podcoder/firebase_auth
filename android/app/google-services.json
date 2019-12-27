@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "448139515278",
-    "firebase_url": "https://blog-bb3fe.firebaseio.com",
-    "project_id": "blog-bb3fe",
-    "storage_bucket": "blog-bb3fe.appspot.com"
+    "project_number": "563210801393",
+    "firebase_url": "https://blog-d8364.firebaseio.com",
+    "project_id": "blog-d8364",
+    "storage_bucket": "blog-d8364.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:448139515278:android:c536510ee89737a1ca00df",
+        "mobilesdk_app_id": "1:563210801393:android:4d727aaf7b49c54c809950",
         "android_client_info": {
           "package_name": "tk.siddhmistry.blogger"
         }
       },
       "oauth_client": [
         {
-          "client_id": "448139515278-d3n82e401m21593um3sml1qj346fshmo.apps.googleusercontent.com",
+          "client_id": "563210801393-ivlv5sqkd80h7h1l24cr04321sinmor1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "Your_API_Key"
+          "current_key": "AIzaSyCUtWrpOZN1wijUqkMNYaMh_TPa3vJl5qA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "Your_Client_Key",
+              "client_id": "563210801393-ivlv5sqkd80h7h1l24cr04321sinmor1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
